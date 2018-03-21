@@ -1,7 +1,7 @@
 {
   "file": "https://raw.githubusercontent.com/nemartins/hello_world/master/interacting_sets.csv",
   "name": "Sting",
-  "header": 1,
+  "header": 0,
   "separator": ",",
   "skip": 0,
   "meta": [
