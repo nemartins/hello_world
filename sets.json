@@ -1,0 +1,13 @@
+{
+  "file": "https://bitbucket.org/nelson_martins/sting/downloads/interacting_sets.csv",
+  "name": "Sting",
+  "header": 1,
+  "separator": ",",
+  "skip": 0,
+  "meta": [
+    { "type": "id", "index": 0, "name": "target" }
+    ],
+  "sets": [
+    { "format": "binary", "start": 1, "end": 4 }
+    ]
+}
